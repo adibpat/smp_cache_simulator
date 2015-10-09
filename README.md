@@ -9,8 +9,8 @@ HOW TO RUN THE SIMULATOR:
 -------------------------
 $ make
 
-Above command makes the project
 Inputs Required:
+
 1.cache_size 
 2.assoc 
 3.block_size 
